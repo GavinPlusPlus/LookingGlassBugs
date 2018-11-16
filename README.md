@@ -1,6 +1,8 @@
 # LookingGlassBugs
 This repository is for reporting bugs in Looking Glass
 
+Report Bugs [here](https://github.com/GavinPlusPlus/LookingGlassBugs/issues "Bug Reporting")
+
 ## How to report a bug:
 ### Please do the following before reporting a bug:
   1. Check the Issues tab to see if your current problem in already submitted 
