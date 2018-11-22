@@ -13,3 +13,5 @@ Report Bugs [here](https://github.com/GavinPlusPlus/LookingGlassBugs/issues "Bug
   2. Give your bug report a tag that is fitting
   
 Thank you for reporting bugs and making Looking Glass better!
+
+Special Thanks to Ryan Asche for testing Looking Glass
