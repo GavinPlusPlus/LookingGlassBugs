@@ -8,7 +8,7 @@ This repository is for reporting bugs in Looking Glass
   1. Check the Issues tab to see if your current problem in already submitted 
   2. Check the different tags for bug reporting
   
-### How to make your bug report usful:
+### How to make your bug report useful:
   1. Please be specific when reporting an issue
   2. Give your bug report a tag that is fitting
   
